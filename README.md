@@ -4,6 +4,13 @@ An intelligent web application that helps users report, search, and recover lost
 
 ---
 
+## Live Deployment
+
+* **Live Website (Frontend):** https://campus-asset-recovery-weld.vercel.app
+* **Backend API:** https://campus-asset-recovery-usdz.onrender.com
+
+---
+
 ## Features
 
 - User Registration & Login
@@ -32,7 +39,7 @@ An intelligent web application that helps users report, search, and recover lost
 - Express.js
 
 ### Database
-- MongoDB / MySQL
+- MySQL (Aiven Cloud / Local XAMPP)
 
 ### Other Tools
 - Git & GitHub
